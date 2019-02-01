@@ -5,7 +5,7 @@
     "name" : "test_FetchData",
     "children" : [ {
       "name" : "test_verify_registration",
-      "uid" : "8ec1ed729b21b1bc",
+      "uid" : "b86da6d546fbbfd",
       "parentUid" : "e65dc638bdb43ba16c33a7fc62e03e59",
       "status" : "passed",
       "time" : {
@@ -21,7 +21,7 @@
     "name" : "test_FirstTestCase",
     "children" : [ {
       "name" : "test_firstcase",
-      "uid" : "6219d30474d8dc13",
+      "uid" : "c298be1a066a14e7",
       "parentUid" : "7f837acb8c7124dc2f2bca06ef74e313",
       "status" : "passed",
       "time" : {
@@ -37,7 +37,7 @@
     "name" : "test_FirstTestCase_firefox",
     "children" : [ {
       "name" : "test_case_firefox",
-      "uid" : "422aa5bd4b75492b",
+      "uid" : "d1e35c243127b6f7",
       "parentUid" : "2dc0607f8a46e2e7f72d1c0070175ecb",
       "status" : "passed",
       "time" : {
@@ -53,7 +53,7 @@
     "name" : "test_KeyboardOperations",
     "children" : [ {
       "name" : "test_mycase",
-      "uid" : "cc1947adc89c4c70",
+      "uid" : "8b5a81772d0295ff",
       "parentUid" : "37bf124e43da06243aed76caf0e608c2",
       "status" : "passed",
       "time" : {
@@ -69,7 +69,7 @@
     "name" : "test_MouseOperations",
     "children" : [ {
       "name" : "test_mouseOperations",
-      "uid" : "4bd50bb694480dd1",
+      "uid" : "a0800ae0a6be0034",
       "parentUid" : "3059fb40b5339d7860d54a9e7d9b4528",
       "status" : "passed",
       "time" : {
@@ -85,7 +85,7 @@
     "name" : "test_multiWindow",
     "children" : [ {
       "name" : "test_verify_registration",
-      "uid" : "3b086bb356b8336c",
+      "uid" : "ef481f1a5967a497",
       "parentUid" : "acd61992f570802a426e127973a710cb",
       "status" : "passed",
       "time" : {
