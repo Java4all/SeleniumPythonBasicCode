@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b5bd103-7979-4e65-be72-f45aba24986e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/TestCases/test_FetchData.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FetchData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_FirstTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FirstTestCase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_FirstTestCase_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_FirstTestCase_firefox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_KeyboardOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_KeyboardOperations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_MouseOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_MouseOperations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_multiWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_multiWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FetchData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FetchData.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_FetchData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FirstTestCase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FirstTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_FirstTestCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FirstTestCase_firefox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FirstTestCase_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_FirstTestCase_firefox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_KeyboardOperations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_KeyboardOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_KeyboardOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_MouseOperations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_MouseOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_MouseOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_multiWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_multiWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_multiWindow.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_FirstTestCase.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_FirstTestCase.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
@@ -31,7 +36,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_FirstTestCase_firefox.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_FirstTestCase_firefox.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
@@ -40,7 +45,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_FetchData.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_FetchData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="11" selection-end-line="31" selection-end-column="39" />
@@ -49,7 +54,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_multiWindow.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_multiWindow.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
@@ -61,7 +66,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_KeyboardOperations.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_KeyboardOperations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -73,7 +78,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_MouseOperations.py">
+        <entry file="file://$PROJECT_DIR$/TestCases/test_MouseOperations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
@@ -148,8 +153,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation" />
       <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases" />
+      <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\Driver" />
@@ -181,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\test_FetchData.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_FetchData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\test_FirstTestCase.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_FirstTestCase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +228,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\test_FirstTestCase_firefox.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_FirstTestCase_firefox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\test_KeyboardOperations.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_KeyboardOperations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\test_MouseOperations.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\TestingWorld\PycharmProjects\SeleniumAutomation\TestCases\test_MouseOperations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +335,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_FetchData.py</url>
+          <url>file://$PROJECT_DIR$/TestCases/test_FetchData.py</url>
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -338,7 +343,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FirstTestCase_ie.py" />
     <entry file="file://$PROJECT_DIR$/Reports/allure-report/index.html" />
-    <entry file="file://$PROJECT_DIR$/test_FirstTestCase.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_FirstTestCase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
@@ -348,21 +353,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_FirstTestCase_firefox.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_FirstTestCase_firefox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_FetchData.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_FetchData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="11" selection-end-line="31" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_KeyboardOperations.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_KeyboardOperations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -372,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_MouseOperations.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_MouseOperations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
@@ -382,7 +387,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_multiWindow.py">
+    <entry file="file://$PROJECT_DIR$/TestCases/test_multiWindow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
